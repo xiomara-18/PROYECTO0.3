@@ -63,7 +63,7 @@ Con esta aplicación, los usuarios pueden acceder fácilmente a toda la informac
 
 | Página Principal | Página de Selección |
 | ---------------- | -------------------- |
-| ![Página Principal](https://i.postimg.cc/Qxsy99tr/2-33.jpg) | ![Página de Selección](https://i.postimg.cc/66CT93TZ/Whats-App-Image-2024-09-12-at-9-37-42-PM.jpg) |
+| ![Página Principal](https://i.postimg.cc/mDvkNtZY/Whats-App-Image-2024-09-17-at-8-36-13-PM.jpg) | ![Página de Selección](https://i.postimg.cc/66CT93TZ/Whats-App-Image-2024-09-12-at-9-37-42-PM.jpg) |
 
 | Personajes | Lugares |
 | ---------- | ------- |
