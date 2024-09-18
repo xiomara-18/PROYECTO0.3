@@ -54,13 +54,10 @@ Con esta aplicación, los usuarios pueden acceder fácilmente a toda la informac
 | ---------------- | -------------------- |
 | ![Página Principal](https://i.postimg.cc/1tkbYvsg/Whats-App-Image-2024-09-12-at-11-38-37-AM.jpg) | ![Página de Selección](https://i.postimg.cc/VN5TfxNr/Whats-App-Image-2024-09-12-at-11-38-44-AM.jpg) |
 
-| Personajes | Lugares |
+| Selección | Detalles |
 | ---------- | ------- |
 | ![Personajes](https://i.postimg.cc/1tkbYvsg/Whats-App-Image-2024-09-12-at-11-38-37-AM.jpg) | ![Lugares](https://i.postimg.cc/VN5TfxNr/Whats-App-Image-2024-09-12-at-11-38-44-AM.jpg) |
 
-| Episodios | Estadísticas |
-| --------- | ------------ |
-| ![Episodios](https://i.postimg.cc/1tkbYvsg/Whats-App-Image-2024-09-12-at-11-38-37-AM.jpg) | ![Estadísticas](https://i.postimg.cc/VN5TfxNr/Whats-App-Image-2024-09-12-at-11-38-44-AM.jpg) |
 
 ### Prototipo de Alta Fidelidad 💻
 
